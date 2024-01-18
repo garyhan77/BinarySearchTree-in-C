@@ -1,0 +1,24 @@
+Script started on 2023-12-07 23:02:08-05:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="120" LINES="27"]
+]0;than66@compute:~/courses/cs2211/Asn/asn5/BST[?2004h[than66@compute BST]$ datr[Ke
+[?2004lThu Dec  7 11:02:12 PM EST 2023
+]0;than66@compute:~/courses/cs2211/Asn/asn5/BST[?2004h[than66@compute BST]$ whoami
+[?2004lthan66
+]0;than66@compute:~/courses/cs2211/Asn/asn5/BST[?2004h[than66@compute BST]$ pwd
+[?2004l/home/than66/courses/cs2211/Asn/asn5/BST
+]0;than66@compute:~/courses/cs2211/Asn/asn5/BST[?2004h[than66@compute BST]$ ./mymatrix < sample_input.txt 
+[?2004lNumber              Street Name         Occurrence          
+100                  1st Street              1
+8                    3 Valleys Place         1
+74                   3rd Street              1
+4                    4 Oaks Crescent         1
+10                   Abbott Street           2
+204                  Beech Drive             1
+36                   Beechbank Crescent      1
+36                   Beechmount Crescent     1
+46                   Oxford Street           1
+70                   Oxford Street           2
+101                  Western Road            2
+]0;than66@compute:~/courses/cs2211/Asn/asn5/BST[?2004h[than66@compute BST]$ exit
+[?2004lexit
+
+Script done on 2023-12-07 23:02:42-05:00 [COMMAND_EXIT_CODE="0"]
